@@ -8,7 +8,7 @@ I focus on taking products end-to-end—from database architecture and security 
 ## 🚀 Featured Live Products & Platforms
 
 * [Goodorder](https://goodorder.space)** — *Multi-Tenant B2B CRM & Business Management SaaS*  
-  Built a full-stack CRM and field-service management platform featuring CSV data mapping, inventory tracking, audit logs, and custom reporting. Implemented database-level tenant isolation using **PostgreSQL Row-Level Security (RLS)** paired with **Next.js Server Actions** and **Supabase**. *(Listed on [SideProjectors](https://www.sideprojectors.com/project/106388/goodorder-connected-crm-and-business-management))*
+  Built a full-stack CRM and field-service management platform featuring CSV data mapping, inventory tracking, audit logs, and custom reporting. Implemented database-level tenant isolation using **PostgreSQL Row-Level Security (RLS)** paired with **Next.js Server Actions** and **Supabase**. *(Listed on [SideProjectors](https://www.sideprojectors.com/project/106388/goodorder-connected-crm-and-business-management)) & [IndieMaker](https://indiemaker.com/listings/crm-operations-saas-prototype))
 * [Sudokuniverse](https://sudokuniverse.space)** — *Interactive Web Logic & Puzzle Platform*  
   A fast, responsive Sudoku web application engineered with modern UI aesthetics, client-side state optimization, and **Dodo Payments** / **Supabase** integration.
 * [Arbitration Blog](https://arbitrationblog.org)** — *International Arbitration Publication & CMS*  
